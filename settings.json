@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "khanhcrafter.aternos.me",
+    "ip": "gunnel.aternos.host:30471",
     "port": 30471,
     "version": "",
     "try-creative": false
